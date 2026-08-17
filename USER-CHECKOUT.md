@@ -1,8 +1,11 @@
-# Seller: three clicks to take money
+# Seller: checkout is already live
 
-The product files and zip are done. A public GitHub repo is the catalog. Money only moves after you create a checkout.
+PayPal $29 button is on https://tzh476.github.io/cash-first-scorecard/
+Note: `SCORECARD-29`. After a payment email, send `dist/cash-first-opportunity-scorecard.zip`.
 
-## Fastest rail: Gumroad
+Gumroad is optional, same price, same zip.
+
+## Optional second rail: Gumroad
 
 1. Open https://gumroad.com/signup and use `tzh476@gmail.com`.
 2. Create product → paste `listing/GUMROAD.md` → upload `dist/cash-first-opportunity-scorecard.zip` → price **$29**.
