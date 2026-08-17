@@ -1,4 +1,0 @@
-id,source_url,advertised_usd,payment_trust_0_5,task_live_0_5,competition_0_5,acceptance_clarity_0_5,skill_fit_0_5,local_verify_0_5,response_0_5,time_0_5,risk_deduction,total,hard_stop,status,hours_estimate,hourly_floor_usd,ev_note,last_verified
-example-official-bounty,https://example.com/issue/1,100,5,5,5,5,5,5,4,5,0,39,no,candidate,4,20,Official program + merged PR history,2026-08-17
-example-crowded-contest,https://example.com/contest,500,2,5,1,2,4,3,2,3,-4,18,yes,excluded,8,20,47 submissions and subjective judging,2026-08-17
-example-unfunded-gig,https://example.com/gig,150,1,5,4,3,3,2,1,3,0,22,yes,excluded,6,20,New client paid-on-delivery no escrow,2026-08-17

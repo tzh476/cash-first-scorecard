@@ -8,23 +8,22 @@ This is not a list of “hot leads.” It is the same decision method used to co
 **Time to use:** 15–30 minutes per opportunity  
 **Who it is for:** developers and technical writers who keep burning hours on listings that never pay
 
-## What’s inside
+## What’s inside the paid zip
+
+See `PREVIEW.md` for the hard stops. The full files are delivered after payment.
+
+Sales page: https://tzh476.github.io/cash-first-scorecard/
+
+PayPal: $29 to `tzh476@gmail.com` with note `SCORECARD-29`, then email the same address for the zip.
+
+## Seller files in this repo
 
 | File | Use |
 |---|---|
-| `product/01-scorecard.md` | 40-point scorecard and hard stops |
-| `product/02-scorecard.csv` | Spreadsheet you can copy into Google Sheets or Excel |
-| `product/03-worked-examples.md` | Three anonymized, source-backed examples |
-| `product/04-failure-patterns.md` | Early-exit patterns that waste the most time |
-| `product/05-due-diligence-template.md` | One-page template to copy for every new lead |
-| `listing/` | Ready-to-paste Gumroad and Polar copy |
-| `storefront/index.html` | One-page sales page |
-
-## How to buy / how to get paid
-
-Buyers: see `storefront/index.html` once the Gumroad or Polar checkout link is live.
-
-Seller (you): open `USER-CHECKOUT.md`. The product files are finished. The only remaining step is creating the checkout and pasting the URL.
+| `listing/` | Gumroad and Polar paste copy |
+| `content/devto-article.md` | DEV.to draft, checkout = sales page |
+| `content/x-short-post.md` | Short social post |
+| `USER-CHECKOUT.md` | Gumroad steps if you want a second rail |
 
 ## License for buyers
 
