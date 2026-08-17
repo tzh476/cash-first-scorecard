@@ -1,6 +1,7 @@
 # A List Apart pitch (send only if first-party page still accepts email)
 
-To: submissions@alistapart.com
+To: submit@alistapart.com
+Status: sent 2026-08-17 from tzh476@gmail.com (Gmail id 1a00fd231acb9768)
 From: Stephen Smith <tzh476@gmail.com>
 Subject: Pitch: Dashboards that are allowed to say “I don’t know”
 
