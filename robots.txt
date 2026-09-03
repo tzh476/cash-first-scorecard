@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tzh476.github.io/cash-first-scorecard/sitemap.xml
